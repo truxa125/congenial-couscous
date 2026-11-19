@@ -1,0 +1,16 @@
+{
+  "jmeno": "Jan Novak",
+  "vek": 20,
+  "je_plnolety": true,
+  "poznamka": null,
+  "adresa": {
+    "ulice": "Hlavni 25",
+    "mesto": "Ostrava",
+    "psc": "70200"
+  },
+  "konicky": [
+    "fotbal",
+    "cestovani",
+    "programovani"
+  ]
+}
