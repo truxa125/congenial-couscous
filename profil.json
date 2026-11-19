@@ -2,7 +2,7 @@
   "jmeno": "Jan Novak",
   "vek": 20,
   "je_plnolety": true,
-  "poznamka": null,
+  "poznamka": "Rad sportuji",
   "adresa": {
     "ulice": "Hlavni 25",
     "mesto": "Ostrava",
@@ -12,5 +12,6 @@
     "fotbal",
     "cestovani",
     "programovani"
-  ]
+  ],
+  "oblibene_cislo": 7
 }
